@@ -1,0 +1,20 @@
+{
+  "name": "@solana/solana-flagged-accounts",
+  "version": "0.0.1",
+  "description": "A community maintained registry of flagged accounts",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solana-labs/solana-flagged-accounts.git"
+  },
+  "license": "MIT",
+  "author": "Solana Maintainers <maintainers@solana.com>",
+  "bugs": {
+    "url": "https://github.com/solana-labs/solana-flagged-accounts/issues"
+  },
+  "homepage": "https://github.com/solana-labs/solana-flagged-accounts#readme"
+}
